@@ -8,10 +8,10 @@ The goal of mysterycoffee is to make couples from a group of people names with s
 
 ## Installation
 
-You can install the development version of mysterycoffee like so:
+You can install the development version of mysterycoffee like so (with vignettes):
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+devtools::install_github("oyzeyno/mysterycoffee", build_vignettes=TRUE)
 ```
 
 ## Example
